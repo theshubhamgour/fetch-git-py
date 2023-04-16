@@ -1,6 +1,10 @@
 # fetch-git-py
 fetch-git-py is a Python project that can help you track and organize cards in a repository with more than 1000 commits. With this tool, you can easily find and extract cards from a code repository to make your work more efficient.
 
+
+![image](https://user-images.githubusercontent.com/72512204/232272942-63552c1e-04c0-47da-8509-47b1f11e474f.png)
+
+
 # Key Features:
 
 Easy to use: Simply provide the repository URL and the tool will do the rest.
